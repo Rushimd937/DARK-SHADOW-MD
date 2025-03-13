@@ -90,9 +90,6 @@
 
 
 <div align="center">
- 
-  <h1>😍👀 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
-</div>
 
 ## DARK SHADOW MD DEVELOPER TEAM
 
