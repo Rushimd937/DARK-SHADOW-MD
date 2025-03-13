@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Rushimd937/DARK-SHADOW-MD/tree/main">
-    <img src="https://pomf2.lain.la/f/5ih12ipx.jpg"  width="700px">
+    <img src="https://pomf2.lain.la/f/cui190rh.jpg"  width="700px">
 </a>
 <hr>
 
